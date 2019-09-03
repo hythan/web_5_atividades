@@ -1,0 +1,9 @@
+# frozen_string_literal: true
+
+source 'https://rubygems.org'
+gem 'fukuzatsu', '~> 2.3', '>= 2.3.2'
+gem 'minitest', '~> 5.11'
+gem 'rubocop', '~> 0.74.0'
+gem 'simplecov', '~> 0.16.1'
+gem 'rubycritic', '~> 4.1'
+gem 'fasterer', '~> 0.6.0'
